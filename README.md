@@ -15,7 +15,7 @@ My name is **Savva**, I am:
 Python | HTML
 ```
 
-# 📫 Как со мной связаться
+# 📫 My contacts
 
 📧 Discord: .hawaii
 
